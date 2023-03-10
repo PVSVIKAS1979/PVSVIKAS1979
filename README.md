@@ -1,5 +1,4 @@
 
-
 <img align="center" alt="coding1" src="https://miro.medium.com/v2/resize:fit:1400/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 <h1 align="center">Hi 👋, I'm VIKAS</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -9,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/pvsvikas" target="blank"><img src="https://img.shields.io/twitter/follow/pvsvikas?logo=twitter&style=for-the-badge" alt="pvsvikas" /></a> </p>
 
-- 🌱 I’m currently learning **js**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **pvsvikas1979@gmail.com**
 
@@ -31,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pvsvikas1979&show_icons=true&locale=en" alt="pvsvikas1979" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pvsvikas1979&" alt="pvsvikas1979" /></p>
+
